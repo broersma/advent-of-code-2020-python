@@ -1,0 +1,4 @@
+bs4==0.0.1
+networkx==2.5
+numba==0.52.0
+requests==2.25.0
