@@ -1,4 +1,5 @@
 day*.txt
+*.sqlite
 
 # Keep it secret, keep it safe
 cookie.txt
